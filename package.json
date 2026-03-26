@@ -1,0 +1,10 @@
+{
+  "name": "market-float-alert-bot",
+  "version": "3.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
