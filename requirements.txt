@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]==22.7
+aiohttp>=3.8.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+pytz>=2023.3
