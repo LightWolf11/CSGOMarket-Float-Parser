@@ -159,7 +159,7 @@ npm run build
 
 ## Лицензия
 
-MIT
+MPL
 
 ---
 
